@@ -7,6 +7,6 @@ Charlotte, North Carolina, USA, Oct 2-3, 2023
 
 Audio_Sample.txt = Access link to the audio samples
 ##
-LFCC_LCNN_baseline.py = python code of the paper's baseline (which is from ASVspoof 2021 challenge)
+LFCC_LCNN_baseline.py = python code of the paper's baseline (which is from ASVspoof 2021 challenge applied on our own dataset)
 ##
 MLP Weka.model and lR.model = Weka model using EDLFs to predict fake vs real, Multi-layer Perceptron and Logistic Regression respectively
