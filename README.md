@@ -14,3 +14,6 @@ MLP Weka.model and lR.model = Weka model using EDLFs to predict fake vs real, Mu
 ensemble_model.ipynb =  after exporting the predictions of the pre-trained LFCC-LCNN model and EDLF-LR Weka model, we create and ensemble model, and this file is its codes
 ##
 Audio_samples contains a few samples of our audio clips
+## 
+How to cite this repo:
+KHANJANI, Z., JANEJA, V., AND TUZ, A. Ieee-isi2023deepfake-detection. https://github.com/MultiDataLab/IEEE-ISI2023DeepFake-Detection, 2023
